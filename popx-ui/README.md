@@ -2,6 +2,14 @@
 
 A responsive React.js application built using Vite and Tailwind CSS based on the provided PopX UI design.
 
+## Live Demo
+
+Hosted Link: https://react-project-showcase-awom.vercel.app/
+
+## GitHub Repository
+
+Repository Link: https://github.com/Anushka-Kakran/react-project-showcase
+
 ## Features
 
 * Landing Page
@@ -22,27 +30,8 @@ A responsive React.js application built using Vite and Tailwind CSS based on the
 
 ## Installation
 
-1. Clone the repository
-
-```bash
-git clone <repository-url>
-```
-
-2. Navigate to project folder
-
-```bash
-cd popx-ui
-```
-
-3. Install dependencies
-
 ```bash
 npm install
-```
-
-4. Start development server
-
-```bash
 npm run dev
 ```
 
